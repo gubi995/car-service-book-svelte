@@ -1,1 +1,46 @@
-{"cars":[{"make":"Ford","model":"Mondeo","year":2010,"enginePerformance":"103 KW","motorNumber":"QXBA","chassisNumber":"WF0GXXGBBGAL32657","plateNumber":"RNB-852","mileage":256000,"fuelType":"Diesel","serviceInterval":10000,"metric":"km","owner":{"name":"Grúber Adrián","address":"6727, Szeged, Dialdal utca 4/A","phoneNumber":"+36202297961"},"services":["2023-12-12T08:26:09.484Z","2022-11-12T08:26:09.484Z","2021-02-02T08:26:09.484Z"]},{"make":"Suzuki","model":"Swift","year":2000,"enginePerformance":"90 KW","motorNumber":"ABCD","chassisNumber":"WF0GXXGBBGAL32651","plateNumber":"AAA-222","mileage":299000,"fuelType":"Petrol","serviceInterval":15000,"metric":"km","owner":{"name":"Grúber Adrián","address":"Diadal utca 4/A","phoneNumber":"+36202297961"},"services":[]}]}
+{
+	"cars": [
+		{
+			"make": "Ford",
+			"model": "Mondeo",
+			"year": 2010,
+			"enginePerformance": "103 KW",
+			"motorNumber": "QXBA",
+			"chassisNumber": "WF0GXXGBBGAL32657",
+			"plateNumber": "RNB-859",
+			"mileage": 256000,
+			"fuelType": "Diesel",
+			"serviceInterval": 10000,
+			"metric": "km",
+			"owner": {
+				"name": "Grúber Adrián",
+				"address": "6727, Szeged, Dialdal utca 4/A",
+				"phoneNumber": "+36202297961"
+			},
+			"services": [
+				"2023-12-12T08:26:09.484Z",
+				"2022-11-12T08:26:09.484Z",
+				"2021-02-02T08:26:09.484Z"
+			]
+		},
+		{
+			"make": "Suzuki",
+			"model": "Swift",
+			"year": 2000,
+			"enginePerformance": "90 KW",
+			"motorNumber": "ABCD",
+			"chassisNumber": "WF0GXXGBBGAL32651",
+			"plateNumber": "AAA-222",
+			"mileage": 299000,
+			"fuelType": "Petrol",
+			"serviceInterval": 15000,
+			"metric": "km",
+			"owner": {
+				"name": "Grúber Adrián",
+				"address": "Diadal utca 4/A",
+				"phoneNumber": "+36202297961"
+			},
+			"services": []
+		}
+	]
+}
